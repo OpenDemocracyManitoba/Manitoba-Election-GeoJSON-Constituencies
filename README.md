@@ -1,10 +1,10 @@
-# Manitoba Election GeoJSON Constituency Map
+## Manitoba Election GeoJSON Constituency Boundaries
 
 The official [Elections Manitoba constituency shapefiles](http://www.electionsmanitoba.ca/en/Resources/Maps) converted using [Ogre](https://ogre.adc4gis.com/) to [GeoJSON format](http://geojson.org/) using the [WGS 84 (CRS:84) projection](http://spatialreference.org/ref/epsg/wgs-84/).
 
 Click on the `.geojson` files to see the constituency boundaries overlaid on a map.
 
-## Boundary Details
+### Boundary Details
 
 New electoral divisions came into effect for the 2011 election based on the report of the 2008 Electoral Divisions Boundaries Commission.
 
